@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bishleshok/static/css/main.d1b05096.chunk.css",
+    "main.js": "/bishleshok/static/js/main.c5bc00b4.chunk.js",
+    "main.js.map": "/bishleshok/static/js/main.c5bc00b4.chunk.js.map",
+    "runtime-main.js": "/bishleshok/static/js/runtime-main.51aaa2a1.js",
+    "runtime-main.js.map": "/bishleshok/static/js/runtime-main.51aaa2a1.js.map",
+    "static/js/2.7cf907a4.chunk.js": "/bishleshok/static/js/2.7cf907a4.chunk.js",
+    "static/js/2.7cf907a4.chunk.js.map": "/bishleshok/static/js/2.7cf907a4.chunk.js.map",
+    "index.html": "/bishleshok/index.html",
+    "precache-manifest.6e0bed726e3e5a8ce06e9c1c4fefe867.js": "/bishleshok/precache-manifest.6e0bed726e3e5a8ce06e9c1c4fefe867.js",
+    "service-worker.js": "/bishleshok/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/bishleshok/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7cf907a4.chunk.js.LICENSE": "/bishleshok/static/js/2.7cf907a4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51aaa2a1.js",
+    "static/js/2.7cf907a4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.c5bc00b4.chunk.js"
+  ]
+}
